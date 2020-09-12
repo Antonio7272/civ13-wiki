@@ -91,13 +91,14 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </tr>
 <tr>
 <td><p>Meat Cutlets</p></td>
+<td>
+<img src="assets/images/Cutlet.png">
+</td>
 <td><p>Cut a meat slab (or fish meat) with a knife.</p></td>
-<td></td>
 </tr>
 <tr>
 <td><p>Grown Foods</p></td>
 <td>
-<img src="assets/images/Cutlet.png">
 </td>
 <td><p>Corn,Cabbages,tomatoes, potatoes can all be roasted on a campfire or stove to be more filling.</p></td>
 </tr>
